@@ -48,6 +48,7 @@
     <Compile Include="LeetCode\LenghtOfLastWord.cs" />
     <Compile Include="LeetCode\LongestCommonPrefix.cs" />
     <Compile Include="LeetCode\PalindromeNumber.cs" />
+    <Compile Include="LeetCode\ReverseInteger.cs" />
     <Compile Include="LeetCode\RomanNumerical.cs" />
     <Compile Include="LeetCode\TwoSum.cs" />
     <Compile Include="Program.cs" />
